@@ -35,3 +35,6 @@ ITL2 geographic heatmap showing regional variation over time (Tableau)
 Key insight
 
 Fuel stock levels show clear national shocks during major events (COVID-19 lockdowns, 2021 supply disruptions, and the 2022 energy crisis), with noticeable regional variation across ITL2 areas.
+
+Note on spatial coverage:
+Sales and delivery metrics as seen in tableau heatmaps only display data from 2020-2022 due to incomplete ITL2 coverage in later years. Stock level percentages were used instead, as they provide consistent regional reporting across the full time period.
