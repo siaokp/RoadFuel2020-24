@@ -2,6 +2,12 @@ UK Road Fuel Stock Levels (2020–2024)
 
 This project analyses UK road fuel stock levels using official government data, combining time-series analysis with spatial visualisation.
 
+## Stock Levels Over Time
+
+![20% Stock Over Time](Screenshots/20-stock-over-time-plot.png)
+
+<video src="Average-Stock-Percentage.mp4" controls width="800"></video>
+
 Data sources
 
 Department for Energy Security and Net Zero (DESNZ):
