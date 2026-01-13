@@ -6,7 +6,7 @@ This project analyses UK road fuel stock levels using official government data, 
 
 ![20% Stock Over Time](Screenshots/20-stock-over-time-plot.png)
 
-<video src="Average-Stock-Percentage.mp4" controls width="800"></video>
+[▶ View the animation (MP4)](Average-Stock-Percentage.mp4)
 
 Data sources
 
